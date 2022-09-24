@@ -1,4 +1,4 @@
-# Android Project 2 - *Wislist*
+# Android Project 2 - *Wishlist*
 
 Submitted by: **Mariela Nazario**
 
